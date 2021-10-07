@@ -1,6 +1,4 @@
-# crawler
-program for crawling a domain, finding all the internal urls in it, with storing them MongoDB
-# Crawler
+# Summary
 in this project, we try to get all the internal urls in a specific domain,
 those urls that are valid will be stored in MongoDB, the purpose of this
 project was to be used in information retrieval projects, specifically
@@ -33,4 +31,11 @@ specify the termination condition.
 some important information about the website and domain that we want to crawle.
 3) parallelize the task of crawling the specified domain, it could reduce the
 time that we spend on this task.
+# Usage
+this program has been developed with python 3.9
+ # python crawler.py
+after pressing enter, the program will ask you the domian you want to crawle,
+just keep in mind that the form of input should be look like
+ "https://www.digikala.com, anything except that would not work.
+
 
