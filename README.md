@@ -36,5 +36,10 @@ this program has been developed with python 3.9, for runnig this program just
 write `python crawler.py` after pressing enter, the program will ask you the
 domian you want to crawle, just keep in mind that the form of input should be
 look like "https://www.digikala.com, anything except that would not work.
-
-
+# The last say
+i would like to hear from you about this project, if you have any changes that
+you think it would be some how helpful to this project please consider telling
+it to me, i will be glad if some thing like that happen, i would review all
+the pull requests that reaches to me, so do not hesitate about sending your
+precious pull request to me, hoping to see you soon, Goodby
+requests to me.
