@@ -33,7 +33,9 @@ some important information about the website and domain that we want to crawle.
 time that we spend on this task.
 # Usage
 this program has been developed with python 3.9
-## python crawler.py
+'''
+python crawler.py
+'''
 after pressing enter, the program will ask you the domian you want to crawle,
 just keep in mind that the form of input should be look like
  "https://www.digikala.com, anything except that would not work.
