@@ -7,12 +7,13 @@ all the urls in a domain, in order to, in the next stpes we could build
 index based on their documents, each document is the content of an url,
 that we get from reading the url, each document, represents, the content
 of an url.
-this program recursively find all the ursl, in this program specifying
+this program recursively find all the urls, in this program specifying
 depth is not mentioned, all the urls that have been referenced in any of
-the internal urls will be fined.
+the internal urls will be found.
 # Attention
 this program is not able to find orphan url, orphan urls are urls that in any
-internal page/url, have not been referenced.
+internal page/url, have not been referenced, in order to find those kind of 
+urls, we should pay attention to "robot.txt" file.
 # Recommendations or suggestions for future work
 1) implementing some sort of finger print for content of each url, in order to
 detect, duplicate contents, that program has seen before, to reduce the size of
@@ -42,4 +43,3 @@ you think it would be some how helpful to this project please consider telling
 it to me, i will be glad if some thing like that happen, i would review all
 the pull requests that reaches to me, so do not hesitate about sending your
 precious pull request to me, hoping to see you soon, Goodby
-requests to me.
